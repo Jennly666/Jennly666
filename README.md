@@ -26,7 +26,7 @@ Technical Skills:
 Programming Languages: Python (Pandas, Numpy, Sklearn, TensorFlow, tkinter, PyQt, Selenium, requests, Matplotlib, Seaborn, Scipy)  
 Databases: PostgreSQL, SQLite  
 Additional Tools: Git, Docker  
-Mathematics and Statistics: Knowledge in Mathematical Statistics and Calculus  
+Mathematics and Statistics: Knowledge in multivariate statistics, hypothesis testing, asymptotic confidence intervals, etc.
   
 Additional Information:  
 Fluent in Data Analysis and ML development.  
